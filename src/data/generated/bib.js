@@ -8,6 +8,7 @@
         "type": "inproceedings",
         "year": "2024"
     },
+
     "chen2023benchmarking": {
         "author": "Chen, Akari and Xie, Simran M and Liang, Percy",
         "booktitle": "NeurIPS",
@@ -17,6 +18,7 @@
         "type": "inproceedings",
         "year": "2023"
     },
+
     "gao2023rarr": {
         "author": "Gao, Luyu and Madaan, Aman and Zhou, Shuyan and Alon, Uri and Liu, Pengfei and Yang, Yiming and Callan, Jamie and Neubig, Graham",
         "booktitle": "ACL",
@@ -26,6 +28,7 @@
         "type": "inproceedings",
         "year": "2023"
     },
+
     "gao2023retrievalaugmented": {
         "author": "Gao, Junyi and Xiong, Cong and Si, Chufan and Liu, Qingying and Wang, Sirui and Bennett, Paul N and Dou, Zhicheng",
         "doi": "10.48550/arXiv.2305.13657",
@@ -35,6 +38,7 @@
         "type": "article",
         "year": "2023"
     },
+
     "lewis2020rag": {
         "author": "Lewis, Patrick and Perez, Ethan and Piktus, Aleksandra and Petroni, Fabio and Karpukhin, Vladimir and Goyal, Naman and K{\\\"u}ttler, Heinrich and Lewis, Mike and Yih, Wen-tau and Rockt{\\\"a}schel, Tim and Riedel, Sebastian and Kiela, Douwe",
         "booktitle": "NeurIPS",
@@ -44,6 +48,7 @@
         "type": "inproceedings",
         "year": "2020"
     },
+
     "ram2023incontext": {
         "author": "Ram, Ori and Levine, Yoav and Dalmedigos, Itay and Muhlgay, Dor and Sap, Maarten and Leviathan, Yaniv and Kalai, Yoav and Goldberg, Yoav and Shashua, Amnon",
         "doi": "10.48550/arXiv.2302.00083",
@@ -53,6 +58,7 @@
         "type": "article",
         "year": "2023"
     },
+
     "shi2023ares": {
         "author": "Shi, Weijia and Dou, Zhicheng and Xu, Jun and Hu, Jiaxin and Xiao, Zewen and Yu, Xiaochen and Liu, Zihan and Wen, Ji-Rong",
         "booktitle": "SIGIR",
@@ -62,6 +68,7 @@
         "type": "inproceedings",
         "year": "2023"
     },
+
     "vu2023freshllms": {
         "author": "Vu, Tu and Iyyer, Mohit and Zhu, Jingfei and Neubig, Graham",
         "booktitle": "EMNLP",
@@ -71,6 +78,7 @@
         "type": "inproceedings",
         "year": "2023"
     },
+
     "wang2023querygeneration": {
         "author": "Wang, Shirong and Li, Xiang and Wu, Sai and Chang, Zhangyang and Zhao, Amy and Zeng, Yingqiang and Wang, Danding and Qian, Haotian and Yang, Fan and Zhang, Huaixiu and Lee, Hongyang R and Tu, Zhaopeng",
         "booktitle": "ICML",
@@ -80,6 +88,7 @@
         "type": "inproceedings",
         "year": "2023"
     },
+
     "xiong2023enhancing": {
         "author": "Xiong, Wei and Sun, Ruosong and Zheng, Xiyou and Lin, Jimmy and Zhang, Min",
         "booktitle": "AAAI",
